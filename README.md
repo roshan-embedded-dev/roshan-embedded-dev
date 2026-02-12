@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Roshan
 
-<!--
-**roshan-embedded-dev/roshan-embedded-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Embedded Systems Developer | Firmware Enthusiast  
+⚡ Interested in Microcontrollers, Embedded C/C++, and IoT  
+🚀 Passionate about building real-world embedded projects and improving coding skills
 
-Here are some ideas to get you started:
+## Skills
+- C / C++
+- Python
+- STM32CubeIDE
+- Embedded Systems
+- UART / SPI / I2C Communication
+- PWM / Timers
+- GPIO / Interrupts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- STM32 firmware projects
+- Improving embedded programming and problem-solving skills
+
+## Projects
+- STM32 Mini Projects (Timers, PWM, UART)
+- Embedded Systems Practice Codes
+
+📫 **Connect with me:** (www.linkedin.com/in/roshan-sivaprasad-811825355)
